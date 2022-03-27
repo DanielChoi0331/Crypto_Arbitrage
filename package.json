@@ -1,0 +1,23 @@
+{
+  "name": "crypto_arbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielChoi0331/Crypto_Arbitrage.git"
+  },
+  "author": "Daniel Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielChoi0331/Crypto_Arbitrage/issues"
+  },
+  "homepage": "https://github.com/DanielChoi0331/Crypto_Arbitrage#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
